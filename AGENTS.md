@@ -69,3 +69,8 @@
 ## Troubleshooting
 - If candidate export fails, inspect `digest-run-status.json` first.
 - Check `digest-run-status.json.feed_errors` first for sample feed failures before looking elsewhere.
+
+
+### Fix #540: Documentation & Usage Notes
+- Clarified parameter requirements and validation handling for #540.
+- Refer to issue details: AI Headlines - Oct 5: OpenAI introduces visual ads and expanded advertiser measurement.
